@@ -8,7 +8,7 @@ The company operates a large fleet of vehicles delivering products such as cemen
 
 To support the company’s financial workflow, QuickStock includes a **Debt Management module** for monitoring client balances, outstanding payments, and credit risks across multiple sales points.
 
-![QuickStock Debt View](./quickstock_debt_view.png)
+![QuickStock Debt View](./quickstock_debt_view.jpg)
 
 Its **Sales Management module** provides tools for handling product entries, multi-site inventory tracking, stock movements, and resale operations, ensuring complete visibility from warehouse to customer delivery.
 
